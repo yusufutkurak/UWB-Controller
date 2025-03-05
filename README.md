@@ -63,6 +63,13 @@ Bu proje, **ESP32** ile **BNO055 IMU** kalibrasyonu ve veri alma işlemlerini i�
     **Örnek Çıktı:**
     ![Python Veri Okuma](https://github.com/user-attachments/assets/d52fb6c4-2a7e-4ba4-9e91-7bbdd7a3e4cb)
 
+## Hesaplama mantığı
+
+![WhatsApp Image 2025-03-05 at 16 00 59](https://github.com/user-attachments/assets/79464fec-d253-4942-bee2-ff738814c21c)
+
+![WhatsApp Image 2025-03-05 at 16 21 33](https://github.com/user-attachments/assets/47911923-f27c-4c0d-9eb0-f121dc5f8ce7)
+
+
 ## Ek Belgeler
 
 - **Detaylı komut listesi ve açıklamalar** için `docs` klasöründe bulunan PDF dökümanını inceleyebilirsiniz.
